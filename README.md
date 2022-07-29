@@ -2,7 +2,7 @@
 Step/catatan
 
 - Idea: Choosing the problem to solve
-  - -Simple job board with better UI and UX
+  - Simple job board with better UI and UX
 - Repository: Managing the source code and versions With Git and Github
 - Design: Making the sketch/mockup/prototype for the UI and Ux on Figma
 - Documentation: Writing the scope or specification with markdown
