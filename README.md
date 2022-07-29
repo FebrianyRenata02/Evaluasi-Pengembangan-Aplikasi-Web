@@ -1,5 +1,5 @@
 # Evaluasi-Pengembangan-Aplikasi-Web 
-Step
+Step/catatan
 
 - Idea: Choosing the problem to solve
 - Repository: Managing the source code and versions With Git and Github
